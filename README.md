@@ -1,2 +1,3 @@
 # Jogo-flappy-Bird-em-Python-
-Estudando Python com ajuda do Professor Lira
+Jogo desenvolvido em Python, usei o PyCharme e aula da Hashtag da programação.
+
